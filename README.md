@@ -79,6 +79,12 @@ Weekly-Habit-Tracker/
 
 ---
 
+## 📸 Application Preview
+
+<p align="center">
+  <img src="./assets/Visible.png" alt="Weekly Habit Tracker Screenshot" width="900">
+</p>
+
 
 # ▶️ Running the Project
 
