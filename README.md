@@ -270,31 +270,6 @@ Potential enhancements include:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-
-```bash
-git checkout -b feature/new-feature
-```
-
-2. Make your changes
-
-```bash
-git commit -m "Add new feature"
-```
-
-3. Push changes
-
-```bash
-git push origin feature/new-feature
-```
-
-4. Open a Pull Request
-
----
 
 # 🐛 Known Limitations
 
@@ -316,11 +291,6 @@ Tested on:
 * Safari
 * Brave Browser
 
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -328,7 +298,7 @@ This project is licensed under the MIT License.
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/GuruvaniRohithKumar
 
 ---
 
